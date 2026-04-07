@@ -183,4 +183,4 @@ Thank you to all the people who already contributed to `hugegraph-python-client`
 ## Contact Us
 
 * [GitHub Issues](https://github.com/apache/hugegraph-ai/issues): Feedback on usage issues and functional requirements (quick response)
-* Feedback Email: [dev@hugegraph.apache.org]() (subscriber only)
+* Feedback Email: [dev@hugegraph.apache.org](mailto:dev@hugegraph.apache.org) (subscriber only)
